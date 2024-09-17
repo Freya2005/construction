@@ -14,7 +14,7 @@ import Navbar from "./Collection/Navbar";
 const App = () => {
   return (
     <ul className = "constructions">
-          
+           <Navbar />
             
       <Routes>
       

@@ -142,6 +142,75 @@ padding-left: 300px;
     border-radius: 50px;
    
 }
-.Name{
+.facad{
+width: 100vw;
+height: 100vh;
+background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/facade.jpg);
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.fac{
     
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50vw;
+    margin: 20vh;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    height: 50vh;
+}
+.Submit{
+    padding: 20px;
+    width: 100px;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border: none;
+
+
+
+}
+.cleanUp{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/cleanUp.jfif);
+   
+
+}
+.finishings{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/Finishing.jfif);
+   
+}
+.interiors{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/Interiors.jpg);
+
+}
+.superstructures{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/Superstructure.jfif);
+
+}
+.roofings{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/Roofing.png);
+    background-size:100vw 100vh;
+    background-repeat: no-repeat;
+
+}
+.foundations{
+    background: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(../src/Collection/Images/foundation.jpeg);
+
+}
+.benzene{
+    color:black;
+    text-decoration: none;
+}
+.Benzene{
+    color: black;
+    text-decoration: none;
 }

@@ -13,9 +13,9 @@ const Navbar = () => {
     <div className = "nav">
          <ul className = "Navbar">
 
-                  <h1 className = "Benzene">Benzene</h1>
+                  <h1 className = "Benzene"><Link className = "benzene" to = "/">Benzene</Link></h1>
         
-                <li><Link to = "/Account" className = "Facade">  Account </Link></li>
+               
                <li> <Link to = "/Facade" className = "Facade">Facade </Link>
             </li>
             <li><Link to = "/Finishing"className = "Facade"> Finishing </Link></li>

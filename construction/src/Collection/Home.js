@@ -7,7 +7,7 @@ import Navbar from "./Navbar";
 const Home = () => {
   return (
     <div className = "home">
-       <Navbar />
+      
       <div className = "Home">
       <h3 className = "id">Constuction Id: 123456789123</h3> 
       
